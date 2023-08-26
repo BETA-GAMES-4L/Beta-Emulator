@@ -1,4 +1,4 @@
-# Beta-Emulator
+# Beta-Emulator - Bypasser!
 
 New-School Game Emulator And Anti-Cheat Bypasser - Powered By BetaAPI
 1. Bypass Anti-Cheat Systems!
