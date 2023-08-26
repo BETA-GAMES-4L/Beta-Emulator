@@ -20,7 +20,11 @@ Anti-Cheats and Games Supported
 5. GTA 5
 6. Madden (EA Anti-Cheat)
 7. Skate 3 (EA Anti-Cheat)
+   
 (bigger variety of games on the emulator!)
+
+![icon](https://github.com/BETA-GAMES-4L/Beta-Emulator/assets/127607663/1ebd4928-46db-48c8-8240-3e101a1e1631)
+
 
 REQUIREMENTS!
 -
