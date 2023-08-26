@@ -37,7 +37,7 @@ REQUIREMENTS!
 The Process
 -
 1. Download (Beta-Emulator.rar)
-2. Extract The Folder To Your Desktop
+2. Extract Files To Your Desktop
 3. Run (Beta-Emulator.exe)
 4. After Running The Executable, You Will Be Welcomed With A Message. Contents: (BetaAPI Is Running!)
 5. Download All Immidiate Updates (2 GB)
