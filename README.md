@@ -20,7 +20,7 @@ Anti-Cheats and Games Supported
 5. GTA 5
 6. Madden (EA Anti-Cheat)
 7. Skate 3 (EA Anti-Cheat)
-   -
+   
 (bigger variety of games on the emulator!)
 
 ![icon](https://github.com/BETA-GAMES-4L/Beta-Emulator/assets/127607663/1ebd4928-46db-48c8-8240-3e101a1e1631)
@@ -41,5 +41,5 @@ The Process
 3. Run (Beta-Emulator.exe)
 4. After Running The Executable, You Will Be Welcomed With A Message. Contents: (BetaAPI Is Running!)
 5. Download All Immidiate Updates (2 GB)
-   -
+   
  (FINAL)Emulate And Mod Popular Games Without Anti-Cheat!
